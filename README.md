@@ -1,2 +1,2 @@
 # hello-world
-some random ideas
+These are the most amazing changes ever.
